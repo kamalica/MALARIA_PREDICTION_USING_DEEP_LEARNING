@@ -1,0 +1,2 @@
+# MALARIA_PREDICTION_USING_DEEP_LEARNING
+Malarial Parasitic prediction using Deep Learning
